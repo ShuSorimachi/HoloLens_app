@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="niku" size="10.000000 6.519337" />
+    <ImageTarget name="subway" size="10.000000 2.867988" />
+    <ImageTarget name="macdonald" size="50.000000 25.000000" />
+    <ImageTarget name="staba" size="50.000000 48.540146" />
+    <ImageTarget name="marukame" size="50.000000 26.923077" />
+    <ImageTarget name="lotteria" size="50.000000 16.484375" />
+    <ImageTarget name="sukiya" size="50.000000 37.458195" />
+    <ImageTarget name="kfc" size="50.000000 22.308893" />
+    <ImageTarget name="juukaru" size="50.000000 50.000000" />
+    <ImageTarget name="rairaitei" size="50.000000 19.230770" />
+    <ImageTarget name="domadoma" size="50.000000 50.000000" />
+    <ImageTarget name="yayoi" size="50.000000 26.458334" />
+    <ImageTarget name="watami" size="50.000000 29.959919" />
+    <ImageTarget name="uotami" size="50.000000 37.500000" />
+    <ImageTarget name="toriki" size="50.000000 35.078533" />
+    <ImageTarget name="isomaru" size="50.000000 17.687500" />
+    <ImageTarget name="matsuya" size="40.000000 29.966555" />
+    <ImageTarget name="yoshinoya" size="720.000000 422.435425" />
+  </Tracking>
+</QCARConfig>
